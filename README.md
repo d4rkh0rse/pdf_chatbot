@@ -2,4 +2,4 @@
 
 ```chat with uploaded pdf```
 
-!(pdf_chatbot.png)
+![Project Logo](pdf_chatbot.png)
